@@ -14,6 +14,7 @@ function BackButton() {
           color: 'black',
           fontFamily: 'Quicksand',
           fontWeight: 'bold',
+          marginBottom: 40,
         }}
       >
         Back
